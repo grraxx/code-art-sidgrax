@@ -129,7 +129,7 @@ void draw() {
     println("Canvas saved as canvas_image.jpg");
   }
   brush.x+=(particle.position.x-brush.x)/8;
-  brush.y+=(particle.position.y-brush.y)/8;//follow the mouse with delay effect
+  brush.y+=(particle.position.y-brush.y)/8;
   Brush();
   px=brush.x;
   py=brush.y;//stored value:)
