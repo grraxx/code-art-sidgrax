@@ -1,4 +1,4 @@
 # code-art-sidgrax
 
-![ART](canvas-image-example.jpg)
-![ART](canvas-image.jpg)
+![ART](images/canvas-image-example.jpg)
+![ART](images/canvas-image.jpg)
